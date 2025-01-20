@@ -1,5 +1,5 @@
 I'm a fullstack developer who enjoys crafting web applications with aesthetic and minimalist user interfaces as well as solving complicated logic until brain explodes.
-I'm open to working with startups or FOSS projects.🤝
+I'm open to work with startups or FOSS projects.🤝
 
 
 # Languages and Tools
